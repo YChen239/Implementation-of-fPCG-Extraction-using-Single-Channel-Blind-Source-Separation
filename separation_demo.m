@@ -1,7 +1,4 @@
-% This script is used to load and visualize the real data.
-%
-% Author: Edgar Lobaton
-% Created: 1/22/2019
+
 
 % Loading audio file
 [y0,Fs] = audioread('../Physionet-Real-sufhsdb/f100.wav');
